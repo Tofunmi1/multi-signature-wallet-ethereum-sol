@@ -1,0 +1,5 @@
+- set up events
+- set up variables
+- set up modifiers
+- set up constructors and the conditions you want to be met in the smart contract in the constructor 
+- set up functions
